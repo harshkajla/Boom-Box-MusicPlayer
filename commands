@@ -1,0 +1,6 @@
+echo "# Boom-Box-MusicPlayer" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mayank2903/Boom-Box-MusicPlayer.git
+git push -u origin master
